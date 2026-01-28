@@ -1,16 +1,16 @@
-## Hi there 👋
+### ¡Hola! Soy Fernando Rivas 
+**Ingeniero en Sistemas en formación | Entusiasta de Python & Android**
 
-<!--
-**FernandoRe0309/FernandoRe0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actualmente estoy transicionando del mundo de **Infraestructura/Soporte** hacia el **Desarrollo de Software**. Me apasiona crear herramientas que resuelvan problemas reales, desde apps móviles hasta automatización de backend.
 
-Here are some ideas to get you started:
+**En qué estoy trabajando:**
+- **Destrabo:** Una app Android nativa para el bienestar y recordatorios de actividad física.
+- **Proyecto de Tesis:** Un sistema de gestión backend desarrollado en Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mis Tecnologías:**
+- **Python** (Pandas, Automatización)
+- **Android** (Java, Android Studio)
+- **Infraestructura** (Linux Debian, Redes, Virtualización)
+
+**Contáctame:**
+fernanriv64@gmail.com
