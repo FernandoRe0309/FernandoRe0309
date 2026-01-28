@@ -1,5 +1,5 @@
 ### ¡Hola! Soy Fernando Rivas 
-**Ingeniero en Sistemas en formación | Entusiasta de Python & Android**
+**Ingeniero en Sistemas en formación **
 
 Actualmente estoy transicionando del mundo de **Infraestructura/Soporte** hacia el **Desarrollo de Software**. Me apasiona crear herramientas que resuelvan problemas reales, desde apps móviles hasta automatización de backend.
 
